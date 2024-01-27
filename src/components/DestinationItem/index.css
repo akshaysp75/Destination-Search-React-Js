@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.img {
+  width: 280px;
+  height: 250px;
+}
+.name {
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #0f172a;
+  padding: 7px;
+}
+.destinations-list-item {
+  margin: 10px;
+  list-style: none;
+}
